@@ -18,7 +18,7 @@ A feature-rich application designed for personal and administrative budget manag
 ## **Features**
 
 ### **User Authentication**
-- Admin and regular user roles.
+- Admin (admin@example.com) and regular user (user@example.com) roles.
 - Login system with email.
 - Role-based access control for managing application permissions.
 
